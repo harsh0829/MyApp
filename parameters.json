@@ -1,0 +1,24 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "name": {
+            "value": "harsh0829app"
+        },
+        "hostingPlanName": {
+            "value": "ServicePlanf4d3c2cd-bdd4"
+        },
+        "location": {
+            "value": "South Central US"
+        },
+        "hostingEnvironment": {
+            "value": ""
+        },
+        "serverFarmResourceGroup": {
+            "value": "harsh0829"
+        },
+        "subscriptionId": {
+            "value": "34e0519d-f10a-47e8-8a09-522a6a80e385"
+        }
+    }
+}
